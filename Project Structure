@@ -1,0 +1,11 @@
+cpp
+  court-data-fetcher/
+├── app.py
+├── scraper.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── db.sqlite3
+├── requirements.txt
+└── README.md
